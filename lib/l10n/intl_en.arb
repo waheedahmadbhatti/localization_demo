@@ -1,0 +1,256 @@
+
+{
+  "welcomeTitle": "Back to Work Collection 2024",
+  "welcomeMessage": "Indulge in Elegance and Modesty with TryModest! Discover a Stunning Collection of Abayas crafted with Care and Style.",
+  "getStartButtonText": "Get Started",
+
+
+  "forgotPasswordScreenTitle": "Forgot Password?",
+  "forgotPasswordScreenMessage": "Oops! Did you forget your password? No worries, we've got your back. Enter your email below, and we'll send you a magic link to reset your password. Stay secure and back to shopping in no time!",
+  "resetPasswordButtonText": "Reset Password",
+  "rememberPasswordText": "Remember your password?",
+  "passwordResetLinkSentMessage": "Great news! We've sent a password reset link to your email. Please check your inbox and follow the instructions to reset your password. If you don't see the email, remember to check your spam folder.",
+
+
+  "singleSpaceString": " ",
+  "agreementText": "By signing up, you agree to our",
+  "loginScreenTitle": "Login",
+  "googleLoginButtonText": "Sign in with Google",
+  "forgotPasswordButtonText": "Forgot Password?",
+  "emailHintText": "Email",
+    "phoneHintText": "Phone",
+
+  "passwordHintText": "Password",
+  "rememberMeText": "Remember Me",
+  "orText": "OR",
+  "dontHaveAnAccountText": "Don't have an account?",
+
+
+  "signupScreenTitle": "Signup",
+  "loginScreenMessage": "Welcome back! Please login to access your account.",
+  "loginButtonText": "Login",
+  "signupButtonText": "Sign Up",
+  "firstNameHintText": "First Name",
+  "lastnameHintText": "Last Name",
+  "confirmPasswordHintText": "Confirm Password",
+  "subscribeToMarketingText": "Subscribe to our marketing emails",
+  "checkoutText": "Checkout",
+  "totalTextItemsText": "Total ({noOfItems}) Items",
+  "proceedToShipping": "Proceed to Shipping",
+  "removeItemText": "Remove from Cart",
+  "seeProductDetailsText": "See Product Details",
+  "orderConfirmation": "Order Confirmation",
+  "successMessage": "Your order has been successfully placed!",
+
+
+  "taxText": "Tax",
+  "subTotalText": "SubTotal",
+  "discountText": "Discount",
+  "shippingCostText": "Shipping Cost",
+  "shippingMethodText": "Shipping Method",
+  "gotACouponText": "Got a Discount Code?",
+  "applyText": "Apply Coupon",
+  "removeText": "Remove",
+  "changeText": "Change",
+  "applyCouponText": "Apply Discount",
+  "mustSelectShippingAddress": "You must select a shipping address to be able to choose from shipping options",
+  "proceedToPayText": "Proceed to Pay",
+
+
+  "selectText": "Select",
+  "shippingAddressText": "Shipping Address",
+  "change": "Change",
+  "selectShipppingAddress": "Select Address",
+  "addShipppingAddress": "Add Address",
+  "shippingAddressMessage": "Please select a shipping address to proceed with your order. Shipping address information is required for delivery. Thank you for your cooperation.",
+  "guestShippingAddressMessage": "Please provide your shipping address to proceed with your order. Shipping address information is required for delivery. Thank you for your cooperation.",
+  "emptyAddresses": "It seems you haven't added any addresses yet. Please add a shipping address to proceed with your order. Adding an address ensures smooth delivery of your items. Thank you for your cooperation.",
+  "proceedToBilling": "Proceed to Billing",
+  "completeAddressSelectionMessage": "Only complete addresses, which must include a city and country, can be selected.",
+  "newShippingAddressSet": "This shipping address has set for the delivery!",
+  "gotIt": "Got it!",
+  "addAddressScreenTitle": "Add Address",
+  "intuitiveLabelText": "Help us deliver to the right place! Enter your address details below:",
+  "addressLine1Hint": "Address Line 1",
+  "addressLine2Hint": "Address Line 2",
+  "cityHint": "City",
+  "zipCodeHint": "Zip Code",
+  "saveShippingAddress": "Save Shipping Address",
+  "saveAddressButton": "Save Address",
+  "newAddressAdded": "Your new address has been added to your account.",
+
+
+  "addAddressScreenTitle": "Add Address",
+  "intuitiveLabelText": "Help us deliver to the right place! Enter your address details below:",
+  "addressLine1Hint": "Address Line 1",
+  "addressLine2Hint": "Address Line 2",
+  "cityHint": "City",
+  "zipCodeHint": "Zip Code",
+  "saveShippingAddress": "Save Shipping Address",
+  "saveAddressButton": "Save Address",
+  "newAddressAdded": "Your new address has been added to your account.",
+
+
+  "collectionsScreenTitle": "Collections",
+  "emptyCollectionProductsMessage": "There are no products available for this collection at the moment. Please check back later.",
+
+
+  "aboutStore": "About Store",
+
+
+  "homeLabel": "Home",
+  "cartLabel": "Cart",
+  "collectionsLabel": "Collections",
+  "profileLabel": "Profile",
+  "logoutLabel": "Logout",
+  "enterCountryNameText": "Enter a country name",
+  "termsText": "Terms and Conditions",
+  "faqsText": "Frequently Asked Questions",
+  "privacyPolicyText": "Privacy Policy",
+  "shippingInfoText": "Shipping and Delivery",
+  "returnPolicyText": "Return Policy",
+  "sizeInfoText": "Size Guide",
+  "acceptedCards": "Accepted Cards",
+  "digitalWallets": "Digital Wallets",
+  "supportedCountries": "See Countries Supported for Shipping",
+
+
+  "categoryText": "Category",
+  "popularText": "Popular",
+  "viewAllText": "View All",
+  "searchText": "Search",
+  "refreshText": "Text Button",
+  "swipeUpToRefreshText": "Swipe Up to Refresh",
+  "exploreCollection": "Explore Collection",
+  "emptyCollectionsMessage": "No collections available at the moment. Please check back later.",
+  "emptyProductsMessage": "No products available at the moment. Please check back later.",
+
+
+  "emptyOrderStatusMessage": "There are no orders with this status at the moment. Check back later or explore other tabs.",
+  "ordersScreenTitle": "Orders",
+  "keyOrderStatus": "order_status",
+
+
+  "productCarouselBuilder": "productCarouselBuilder",
+  "availableInStockText": "Available in stock",
+  "notAvailableInStockText": "Out of stock",
+  "realtedCategories": "Related Categories",
+  "recommendedProductsText": "Recommended Products",
+  "keyProductId": "product",
+  "assertionAtleastOneNonNull": "One of the product or productId should not be null.",
+  "addToCartText": "Add to Cart",
+  "reloadText": "Try Again",
+  "notLoggedInMessage": "Oops! It looks like you're not logged in. To add items to your cart, please log in or create an account. Happy shopping!",
+  "greatChoiceTextAddedToCartText": "Great choice! {productTitle} has been successfully added to your shopping cart!",
+  "goToCartText": "Go to Cart",
+  "productNotFoundMessage": "The requested product is not found",
+
+
+   "emptyCartMessage": "Your cart is empty. Discover the latest modest fashion and add your favorite items to the cart!",
+  "exploreCollections": "Explore Collections",
+
+  "emptySearchProductsMessage": "No products found. Try refining your search or explore our collections!",
+  "searchHintText": "Explore Modest Outfits...",
+  "searchCollectionsHintText": "Search collections",
+  "collectionLabel": "Collection",
+    "productTypesLabel": "Product Types",
+  "priceRangeLabel": "Price Range",
+  "priceMinText": "Price Min.",
+  "priceMaxText": "Price Max.",
+  "applyFilters": "Apply Filters",
+  "resetFilters": "Reset Filters",
+
+
+  "updateProfileScreenTitle": "Profile Update",
+  "updateProfileMessage": "Keep your information up-to-date! Update your profile details below or update the password:",
+  "updateProfileText": "Update Profile",
+  "changePasswordText": "Change Password",
+  "updatedProfile": "Your profile has been successfully updated!",
+  "passwordChangeSuccessMessage": "Your password has been changed successfully. You will now be redirected to the login screen.",
+  "proceedToLogin": "Proceed to Login",
+
+
+  "loginText": "Login",
+  "signupText": "Sign Up",
+  "loginPromptMessage": "Welcome to a curated collection of modest clothing that celebrates style and comfort. Sign up or log in to explore our exclusive range and enjoy a seamless shopping experience.",
+  "welcomeText": "Welcome",
+  "defaultAddressText": "Default Address",
+  "changeDefaultText": "Change Default",
+  "ordersText": "Orders",
+  "wishListText": "Wish List",
+  "ordersListBuilder": "ordersListBuilder",
+  "emptyOrdersMessage": "You haven't placed any orders yet. Start shopping to see your order history!",
+  "emptyWishListMessage": "Your wishlist is currently empty. Start adding items you love to keep track of them!",
+  "appName": "Try Modest",
+    "discoverModestFashionWith": "Discover Modest Fashion with {appTitle}!",
+
+  "whyJoin": "Why Join?",
+  "joinBenefitsFirst":
+    "🌟 Access a curated selection of modest fashion",
+  "joinBenefitsSecond":
+
+    "🧕🏻 Discover unique styles tailored for you"
+  ,
+  "joinBenefitsThird":
+    "🛒 Enjoy personalized shopping recommendations"
+  ,
+  "getStarted": "Get Started Today!",
+  "alreadyMember": "Already a member? Log in here",
+  "joinCommunity": "Join Our Modest Community",
+  "termsAndPrivacy": "By signing up, you agree to our Terms of Service and Privacy Policy.",
+  "experienceFashion": "Experience Fashion, Redefined.",
+
+
+  "allAddressesText": "All of your addresses,",
+  "makeDefaultText": "Make Default",
+  "newAddressText": "New Address",
+  "removeAddressText": "Remove Address",
+  "maxAddressesText": "Max 10 Addresses Allowed",
+
+
+  "changePasswordScreenTitle": "Change Password",
+  "changePasswordScreenMessage": "Welcome back! Please login to access your account.",
+"settingsText": "Settings",
+   "en": "English",
+      "ur": "Urdu",
+
+  "irish": "Irish",
+  "malay": "Malay",
+  "turkish": "Turkish",
+  "persian": "Persian",
+  "german": "German",
+  "arabic": "Arabic",
+  "french": "French",
+  "swedish": "Swedish",
+  "dutch": "Dutch",
+  "norwegian": "Norwegian",
+  "italian": "Italian",
+  "greek": "Greek",
+
+  "openText": "Open",
+  "archivedText": "Archived",
+  "canceledText": "Canceled",
+  "anyText": "Any",
+  "closedText": "Closed",
+  "pendingText": "Pending",
+  "authorizedText": "Authorized",
+  "overdueText": "Overdue",
+  "expiringText": "Expiring",
+  "expiredText": "Expired",
+  "paidText": "Paid",
+  "refundedText": "Refunded",
+  "partiallyRefundedText": "Partially Refunded",
+  "partiallyPaidText": "Partially Paid",
+  "voidedText": "Voided",
+  "unpaidText": "Unpaid",
+  "fulfilledText": "Fulfilled",
+  "unfulfilledText": "Unfulfilled",
+  "partiallyFulfilledText": "Partially Fulfilled",
+  "scheduledText": "Scheduled",
+  "onHoldText": "On Hold",
+  "allText": "All",
+  "processingOrderText": "Processing Ordered",
+  "shippedText": "Shipped",
+  "toPayText": "To Pay"
+
+}
